@@ -1,0 +1,35 @@
+.home {
+    direction: rtl;
+    background: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-family: Alef;
+}
+
+.home h1 {
+    padding: 10px;
+    font-size: 70px;
+}
+
+.home p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 200;
+}
+
+.main {
+    max-width: 600px;
+    text-align: center;
+    margin: 30px auto 10px;
+}
+
+.hasadna-logo {
+    margin-left: 10px;
+}
+
+.hasadna-title {
+    font-size: 24px;
+    line-height: 62px;
+    color:white;
+}
